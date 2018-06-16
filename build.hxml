@@ -1,0 +1,6 @@
+-cp src
+-D analyzer-optimize
+-main Main
+--interp
+-lib heaps:1.2.0
+-lib siso:git:https://github.com/Dvergar/SISO.git#f43153f
